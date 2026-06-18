@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sombras-de-tu-cuerpo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sombras de tu cuerpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sombras-de-tu-cuerpo/) |
+| **Get License** | [Commercial Licensing for Sombras de tu cuerpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sombras-de-tu-cuerpo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te escapas conmigo
+> Que la ciudad nos llama, el deseo es testigo
+> Tus ojos me dicen lo que calla tu voz
+> Solo somos tú y yo, acelerando el reloj
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
