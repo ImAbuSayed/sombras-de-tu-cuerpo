@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sombras de tu cuerpo
+
+This log tracks the cryptographic history and versioning for the song **Sombras de tu cuerpo** (sombras-de-tu-cuerpo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T06:53:25.661911 | `v1` | `f3d09d1ba82bc58549a45f7734a478b3dc53782ca8f62ffa351ef0ab106a7d42` | `f1bfa80b7784cd8469a15dff467a749b3d4cd9996510a4b8c274e02f8bfa7215` | `2026-06-18_sombras-de-tu-cuerpo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
